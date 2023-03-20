@@ -1,4 +1,4 @@
-# Nombre final del curso
+# Domina Python: Nivel 2
 
 Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
@@ -7,6 +7,7 @@ Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El c
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+Aprende trucos avanzados y técnicas para mejorar tu habilidad en Python con este contenido formativo. A través de vídeos prácticos y ejemplos, aprenderás cómo hacer una prueba unitaria que involucre fechas dinámicas con Python, cómo crear arreglos y matrices con Numpy y mucho más. Además, todo el código del curso estará disponible en GitHub Codespaces, lo que te permitirá seguir practicando y mejorando tus habilidades en cualquier momento. ¡No pierdas la oportunidad de mejorar tus habilidades en Python!
 
 ## Instrucciones
 
