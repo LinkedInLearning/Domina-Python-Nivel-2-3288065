@@ -1,5 +1,6 @@
 import os
 
+
 def borrar_archivo(ruta_archivo):
     try:
         os.remove(ruta_archivo)
