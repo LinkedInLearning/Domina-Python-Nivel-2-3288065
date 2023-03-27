@@ -6,9 +6,10 @@ def contar_tiempo(funcion):
     def medir_duracion(*args, **kwargs):
         inicio = time.time()
         funcion(*args, **kwargs)
-        print("Tiempo (s): ", time.time() - inicio)
+        print("Tiempo (s):", time.time() - inicio)
 
     return medir_duracion
+
 
 @contar_tiempo
 def crear_diccionario():
