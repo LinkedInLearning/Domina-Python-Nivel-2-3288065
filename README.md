@@ -10,6 +10,8 @@ DESCRIPCIÓN DEL CURSO
 
 Aprende trucos avanzados y técnicas para mejorar tu habilidad en Python con este contenido formativo. A través de vídeos prácticos y ejemplos, aprenderás cómo hacer una prueba unitaria que involucre fechas dinámicas con Python, cómo crear arreglos y matrices con Numpy y mucho más. Además, todo el código del curso estará disponible en GitHub Codespaces, lo que te permitirá seguir practicando y mejorando tus habilidades en cualquier momento. ¡No pierdas la oportunidad de mejorar tus habilidades en Python!
 
+Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”.
+
 ## Instrucciones
 Este repositorio tiene directorios para cada uno de los capítulos del curso.
 
